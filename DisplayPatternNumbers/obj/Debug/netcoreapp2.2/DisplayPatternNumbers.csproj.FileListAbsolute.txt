@@ -1,0 +1,11 @@
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\bin\Debug\netcoreapp2.2\DisplayPatternNumbers.deps.json
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\bin\Debug\netcoreapp2.2\DisplayPatternNumbers.runtimeconfig.json
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\bin\Debug\netcoreapp2.2\DisplayPatternNumbers.runtimeconfig.dev.json
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\bin\Debug\netcoreapp2.2\DisplayPatternNumbers.dll
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\bin\Debug\netcoreapp2.2\DisplayPatternNumbers.pdb
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\obj\Debug\netcoreapp2.2\DisplayPatternNumbers.csprojAssemblyReference.cache
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\obj\Debug\netcoreapp2.2\DisplayPatternNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\obj\Debug\netcoreapp2.2\DisplayPatternNumbers.AssemblyInfoInputs.cache
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\obj\Debug\netcoreapp2.2\DisplayPatternNumbers.AssemblyInfo.cs
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\obj\Debug\netcoreapp2.2\DisplayPatternNumbers.dll
+C:\Users\a293617\source\repos\CodeTest\DisplayPatternNumbers\obj\Debug\netcoreapp2.2\DisplayPatternNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\bin\Debug\netcoreapp2.2\StrategyPattern.deps.json
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\bin\Debug\netcoreapp2.2\StrategyPattern.runtimeconfig.json
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\bin\Debug\netcoreapp2.2\StrategyPattern.runtimeconfig.dev.json
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\bin\Debug\netcoreapp2.2\StrategyPattern.dll
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\bin\Debug\netcoreapp2.2\StrategyPattern.pdb
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.AssemblyInfo.cs
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.dll
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.pdb
+C:\Users\a293617\source\repos\CodeTest\StrategyPattern\obj\Debug\netcoreapp2.2\StrategyPattern.csprojAssemblyReference.cache

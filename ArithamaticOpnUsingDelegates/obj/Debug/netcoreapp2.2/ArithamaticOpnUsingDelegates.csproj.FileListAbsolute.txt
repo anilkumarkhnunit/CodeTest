@@ -1,0 +1,11 @@
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\bin\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.deps.json
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\bin\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.runtimeconfig.json
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\bin\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.runtimeconfig.dev.json
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\bin\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.dll
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\bin\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.pdb
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\obj\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.csprojAssemblyReference.cache
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\obj\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.csproj.CoreCompileInputs.cache
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\obj\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.AssemblyInfoInputs.cache
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\obj\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.AssemblyInfo.cs
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\obj\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.dll
+C:\Users\a293617\source\repos\CodeTest\ArithamaticOpnUsingDelegates\obj\Debug\netcoreapp2.2\ArithamaticOpnUsingDelegates.pdb
